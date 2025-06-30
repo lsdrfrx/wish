@@ -1,4 +1,5 @@
 bin/
+result
 
 # Devenv
 .devenv*
