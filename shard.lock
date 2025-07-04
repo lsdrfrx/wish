@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  shellwords:
+    git: https://github.com/sztheory/shellwords-crystal.git
+    version: 0.1.0
+

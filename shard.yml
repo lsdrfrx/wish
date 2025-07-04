@@ -1,19 +1,11 @@
 name: wish
 version: 0.1.0
 
-# authors:
-#   - name <email@example.com>
+authors:
+  - Christian Guetnga <lsdrfrx@gmail.com>
 
-# description: |
-#   Short description of wish
+dependencies:
+  shellwords:
+    github: szTheory/shellwords-crystal
 
-# dependencies:
-#   pg:
-#     github: will/crystal-pg
-#     version: "~> 0.5"
-
-# development_dependencies:
-#   webmock:
-#     github: manastech/webmock.cr
-
-# license: MIT
+license: MIT
